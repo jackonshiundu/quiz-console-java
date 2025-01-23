@@ -1,4 +1,4 @@
-//Documentation for this game console.
+Documentation for this game console.
 In this quiz game, we have a collection of questions, each with multiple possible answers, as well as the correct answer. We store these questions in an array of objects. Each object contains the question, a list of answer options, and the correct answer.
 
 To run the game, we loop through each question, presenting the options to the user. The user's response for each question is stored. After the user answers all questions, we loop through the answers and compare them with the correct answers to calculate the score. Finally, the total score is displayed at the end of the game.
